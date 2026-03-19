@@ -1,0 +1,13 @@
+{
+    "atomType": "Molecule",
+    "x": 0,
+    "y": 0,
+    "uniqueID": "id-61053",
+    "name": "Vacuum_Motor",
+    "topLevel": true,
+    "allAtoms": [],
+    "allConnectors": [],
+    "unitsKey": "MM",
+    "fileTypeVersion": 1,
+    "filetypeVersion": 1
+}
